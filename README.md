@@ -7,7 +7,7 @@
   * [License](#license)
   * [Roadmap](#roadmap)
   * [Questions](#questions)
-  * [Screencastify](#screencast)
+  * [Screencastify](#Screencastify)
 
 ## User Story 
 AS A developer
