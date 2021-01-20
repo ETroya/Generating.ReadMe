@@ -13,10 +13,15 @@ const questions = [
         type:"input",
     },
     {
-        message: `What is the name of your project?`,
-        name:"project",
+        message: `What is the title of your project?`,
+        name:"title",
         type: "input",
 
+    },
+    {
+        message:"Whats the purpose of your project",
+        name: "project",
+        type:"Input",
     },
     {
         messages: "What tools did you use?",

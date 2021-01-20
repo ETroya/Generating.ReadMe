@@ -11,24 +11,24 @@
   * [Questions](#questions)
   
   ## Github User
-  Edwin Troya
+  Edwin
 
   ## Project
 
-  lyrics
+  to help with translations
 
   ## Decription
   
-  This project was to help others translate their favorite song and find the lyrics
+  click search bars
   
   ## Usage
 
-  By typing the song name and artist and clicking the search. A list will drop down.
+  click search bars
 
   ## Tools
 
   The following tools were used in the development of this project:
-   HTML, CSS, Bootstrap 4, JavaScript, jQuery
+   HTML, CSS, Bootstrap 4, JavaScript
 
   ## License
 
@@ -36,18 +36,18 @@
 
   ## Roadmap
 
-  Have the project play music and have more languages
+  more options
 
   ## Contributions
 
-  Yes, I had 4 other members in the group
+  yes
   
   ## Tests
 
-  yes, and errors were corrected.
+  yes 
 
   ## Questions
 
-  Please email all questions to edtroyajr@gmail.com.
+  Please email all questions to etroya.
 
   
