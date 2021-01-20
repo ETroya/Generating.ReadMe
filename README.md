@@ -7,7 +7,7 @@
   * [License](#license)
   * [Roadmap](#roadmap)
   * [Questions](#questions)
-  * [Screencasatify](#screencast)
+  * [Screencastify](#screencast)
 
 ## User Story 
 AS A developer
@@ -41,4 +41,4 @@ https://github.com/ETroya/Generatoring.ReadMe.git
 <iframe src="https://drive.google.com/file/d/1yCcgK-GQ9iPa6v5gaJzMI3aJEdkiY3bK/preview" width="640" height="480"></iframe>
 
 ## ScreenShot
-![Alt Text](./assets/images.screenshot.png)
+
