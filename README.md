@@ -6,21 +6,19 @@
   * [Tools](#tools)
   * [License](#license)
   * [Roadmap](#roadmap)
-  * [Contributions](#contributions)
-  * [Tests](#tests)
   * [Questions](#questions)
   * [Screencasatify](#screencast)
 
 ## User Story 
 AS A developer
 I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
-
-## Description 
+SO THAT I can quickly create a professional README for a new project 
 
 ## Project
 Generate READ.ME
 
+
+## usage
 
 When the User opens up the terminal and inputs Node index.js; the user will be asked to provide their Github account. 
 
@@ -32,6 +30,9 @@ The User will have a selection of license to click:
 ["Apache license 2.0", "Mozilla Public License 2.0", "ETroya License", "The Unliense", "MIT"]
 
 The User will input the roadmap of their project.
+
+## tools
+Javascript,  Node.js
 
 ## Questions 
 https://github.com/ETroya/Generatoring.ReadMe.git
